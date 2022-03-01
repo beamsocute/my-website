@@ -22,14 +22,14 @@
                                 <td>2</td>
                                 <td>Jung Ho-seok</td>
                                 <td>Jhope</td>
-                                <td><img src="https://www.seoul2me.com/wp-content/uploads/2021/09/Jung-Ho-Yeon.png" width="140px"></td>
+                                <td><img src="https://i.mydramalist.com/pNZnV_5f.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bts_bighit?s=21&fbclid=IwAR36yzn8MImuJ9bZmf0-47gHshmFvAUkQWwFMmhJpqCNNLGpj5XZePAVxp8">twitter</a></td>
                         </tr>
                         <tr>
                                 <td>3</td>
                                 <td>NATRUJA CHUTIWANSOPON</td>
                                 <td>Kaew</td>
-                                <td><img src="https://static.wikia.nocookie.net/akb48/images/9/97/KaewBNK48June2021.jpg/revision/latest?cb=20210602073723" width="140px"></td>
+                                <td><img src="https://i.pinimg.com/736x/27/aa/c7/27aac764efb50f89b9fda88e264b8031.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
@@ -43,7 +43,7 @@
                                 <td>5</td>
                                 <td>WEERAYA ZHANG</td>
                                 <td>Wee</td>
-                                <td><img src="https://i.pinimg.com/originals/ec/96/1c/ec961c4fa470b74e17c8986e373765ae.jpg" width="130px"></td>
+                                <td><img src="https://static.wikia.nocookie.net/akb48/images/c/c5/WeeBNK48June2021.jpg/revision/latest?cb=20210602071413" width="130px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
