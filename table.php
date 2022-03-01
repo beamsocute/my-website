@@ -22,7 +22,7 @@
                                 <td>2</td>
                                 <td>Jung Ho-seok</td>
                                 <td>Jhope</td>
-                                <td><img src="https://i.mydramalist.com/pNZnV_5f.jpg" width="140px"></td>
+                                <td><img src="https://i.pinimg.com/originals/07/81/d6/0781d603231b1d5c9141297f21da0bbe.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bts_bighit?s=21&fbclid=IwAR36yzn8MImuJ9bZmf0-47gHshmFvAUkQWwFMmhJpqCNNLGpj5XZePAVxp8">twitter</a></td>
                         </tr>
                         <tr>
@@ -43,7 +43,7 @@
                                 <td>5</td>
                                 <td>WEERAYA ZHANG</td>
                                 <td>Wee</td>
-                                <td><img src="https://static.wikia.nocookie.net/akb48/images/c/c5/WeeBNK48June2021.jpg/revision/latest?cb=20210602071413" width="130px"></td>
+                                <td><img src="https://i.mydramalist.com/pNZnV_5f.jpg" width="130px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
