@@ -29,7 +29,7 @@
                                 <td>3</td>
                                 <td>NATRUJA CHUTIWANSOPON</td>
                                 <td>Kaew</td>
-                                <td><img src="https://static.wikia.nocookie.net/akb48/images/9/97/KaewBNK48June2021.jpg/revision/latest?cb=20210602073723" width="140px"></td>
+                                <td><img src="https://i.mydramalist.com/jN6Rd_5f.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
@@ -43,7 +43,7 @@
                                 <td>5</td>
                                 <td>WEERAYA ZHANG</td>
                                 <td>Wee</td>
-                                <td><img src="https://static.wikia.nocookie.net/akb48/images/c/c5/WeeBNK48June2021.jpg/revision/latest?cb=20210602071413" width="130px"></td>
+                                <td><img src="https://i.mydramalist.com/pNZnV_5f.jpg" width="130px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
